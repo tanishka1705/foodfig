@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin&family=Montserrat:wght@400;500;600;700&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&family=Fira+Sans:wght@300;400&family=Jost:wght@300;400&family=Merriweather&family=Roboto:wght@700&family=Rubik&display=swap');
+
+
+.foot-img {
+    width: 100%;
+    object-fit: cover;
+    height: 509px;
+    flex-shrink: 0;
+}
+
+.h2 {
+    color: #ffffff;
+    text-align: center;
+    font: var(--h-2, 700 40px/57px "Montserrat", sans-serif);
+    position: absolute;
+    top: 30%;
+    /* width: 823px;  */
+    width: 100%;
+}
+
+.h4 {
+    color: #ffffff;
+    text-align: center;
+    font: var(--h-4, 500 24px/38px "Montserrat", sans-serif);
+    position: absolute;
+    top: 45%;
+    /* width: 840px; */
+    width: 100%;
+}
+
+.btns {
+    position: absolute;
+    top: 65%;
+}
+
+#playstore {
+    border-radius: 10px;
+    background: #FA4A0C;
+    color: #ffffff;
+    padding: 18px 31px 18px 31px;
+}
+
+#appstore {
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 18px 31px 18px 31px;
+}
+
+#foot-logo{
+width: 246px;
+height: 102px;
+position: relative;
+right: 30%;
+}
+
+.img-stack{
+    position: absolute;
+    text-align: center;
+}
+
+#cpyrght{
+    color:  #5c5c5c;
+  text-align: right;
+  font: 700 12px/18px "Roboto", sans-serif;
+  position: relative;
+  left: 25%;
+}

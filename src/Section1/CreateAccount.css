@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin&family=Montserrat:wght@400;500;600;700&display=swap");
+
+
+#create {
+    color: #fa4a0c;
+    text-align: left;
+    font: var(--h-3, 700 24px/36px "Montserrat", sans-serif);
+    width: 232px;
+    height: 36px;
+}
+
+#login {
+    color: var(--text, #252b42);
+    text-align: left;
+    font: var(--h-2, 700 40px/57px "Montserrat", sans-serif);
+    width: 561px;
+    height: 114px;
+
+}
+
+#desc {
+    color: var(--secondtext, #737373);
+    text-align: left;
+    font: var(--h-4, 500 24px/38px "Montserrat", sans-serif);
+    width: 467px;
+    height: 76px;
+
+}
+/* /* .stack{
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 568px; */
+    /* position: absolute;
+    top: 60%;
+}  */
+
